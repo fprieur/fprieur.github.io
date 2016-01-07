@@ -6,7 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Fred Prieur</copyright>
+    <lastBuildDate>Wed, 06 Jan 2016 22:45:40 -0500</lastBuildDate>
     <atom:link href="http://fprieur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://fprieur.github.io/about/</link>
+      <pubDate>Wed, 06 Jan 2016 22:45:40 -0500</pubDate>
+      
+      <guid>http://fprieur.github.io/about/</guid>
+      <description>&lt;p&gt;About&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
